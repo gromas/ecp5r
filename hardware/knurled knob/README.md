@@ -4,6 +4,8 @@
 
 ![ECP5R knurled knob](ecp5r_knurled_knob.png)
 
+Fusion 360 preview: https://a360.co/3K8UF3I
+
 Требуемые компоненты:
 
 Подшипник 6805
